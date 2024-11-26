@@ -2,6 +2,12 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). This application is built using TypeScript for type safety, styled with Tailwind CSS for utility-first CSS styling, and utilizes shadcn/ui for pre-built UI components. The website features a primary gradient color theme.
 
+# Eaternal UI
+### Transaction Page
+![Eaternal - Transaction UI](/app/ui-preview-transaction.png)
+### Products Page
+![Eaternal - Products UI](/app/ui-preview-products.png)
+
 ## Technologies Used
 
 - **Next.js**: A React framework for building server-rendered applications.
@@ -14,7 +20,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, install modules with
+
+```bash
+npm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
